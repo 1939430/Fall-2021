@@ -1,0 +1,12 @@
+[
+    {
+        "firstName": "Mehedi",
+        "lastName": "Muhtasim",
+        "age": "22",
+        "designation": "junior programmer",
+        "language": "Java",
+        "email": "mehedimuhtasim19@gmail.com",
+        "password": "1234",
+        "file": null
+    }
+]
